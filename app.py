@@ -32,16 +32,7 @@ st.markdown(f"""
     h1, h2, h3 {{
         color: {COLORS['dark_green']};
         font-weight: 700;
-    }}
-    
-    /* Кастомный контейнер для слайда */
-    .slide-container {{
-        background-color: {COLORS['light_bg']};
-        border-radius: 20px;
-        padding: 40px;
-        border: 1px solid #E0E0E0;
-        min-height: 550px; /* Немного увеличили высоту для таблиц */
-        box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+   
     }}
     
     /* Акцентный текст (Apple Green) */
